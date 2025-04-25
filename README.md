@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clairedebs
 - 👀 I’m interested in Data Analysis and Web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning spring boot ans angular
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me clairedeborah890@gmail.com
 
