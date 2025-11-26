@@ -29,7 +29,7 @@
 
 ## 🤝 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/claire-deborah-ngos-3b93a0310)  
-- 🐦 [X (Twitter)](https://x.com/)  
+- 🐦 [X (Twitter)](https://x.com/clairedeborahN)  
 - 📫 Email: clairedeborah890@gmail.com
 
 ---
